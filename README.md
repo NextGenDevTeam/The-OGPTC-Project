@@ -2,10 +2,10 @@
 With the OGPTC Open source projetc, you can build your own AI based Chatbot. Download the source code from here and help the community to make powerful AI based tools!
 
 # Required tools
-To code your AI, **you first need a computer or a laptop at least then get VS Code, be sure to have Python 3 on your device and download the source code.**
+To code your AI, **you first need a computer or a laptop at least then get VS Code, be sure to have Python 3 with Tkinter support on your device and then download the source code.**
 All you have to do is coding using **Python**!
 
-If you don't know how to code using Python, learn how to use it first!
+If you don't know how to code using Python, learn how to use it first before modifying anything to the source code.
 
 # Explaining the components of the source code
   # 1-Imports
@@ -32,5 +32,7 @@ If you don't know how to code using Python, learn how to use it first!
 # Verifying results
 Press **F5** on your keyboard (Or open the souce code as a Python 3 file so you can acces the console and the window), then choose your **Python debugger** and then your chatbot will appear on a **window**.
 ![Capture d’écran du 2024-11-17 15-23-41](https://github.com/user-attachments/assets/83b9d93c-5c0c-4d4f-9f17-6793be84ae6c)
+
+As you can see here, we have created a functionnal chatbot ready to assist us at anytime, even **OFFLINE**!
 
 _Powerful Tip: Save your work before running the program or quitting the IDE!_

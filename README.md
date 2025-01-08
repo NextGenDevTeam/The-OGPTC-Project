@@ -1,11 +1,12 @@
 # The-OGPTC-Project
-With the OGPTC Open source projetc, you can build your own AI based Chatbot. Download the source code from here and help the community to make powerful AI based tools!
+With the OGPTC Open source project that allows you to build your own AI based Chatbot. Download the source code from here for free and help the community to make powerful AI based tools!
 
 # Required tools
-To code your AI, **you first need a computer or a laptop at least then get VS Code, be sure to have Python 3 with Tkinter support on your device and then download the source code.**
+To code your AI, **you first need a computer or a laptop at least and then get VS Code, be sure to have Python 3 with Tkinter support on your device and then download the source code.**
 All you have to do is coding using **Python**!
+_Note: It doesn't matter if you use linux, macOS or Windows._
 
-If you don't know how to code using Python, learn how to use it first before modifying anything to the source code.
+If you don't know how to code using Python, learn how to code in python first before modifying the source code.
 
 # Explaining the components of the source code
   # 1-Imports
